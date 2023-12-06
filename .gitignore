@@ -1,0 +1,7 @@
+*.DS_STORE
+venv
+.idea
+*.pyc
+*.cpython-38.pyc
+figs
+data
